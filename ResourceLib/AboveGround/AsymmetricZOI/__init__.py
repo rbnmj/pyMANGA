@@ -3,7 +3,8 @@
 """
 Created on Thu Nov  8 15:25:03 2018
 
-@author: peters
+@author: peters  
+.. include:: ./AsymmetricZOI.md
 """
 
 from .AsymmetricZOI import AsymmetricZOI
